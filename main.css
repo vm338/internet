@@ -12,7 +12,7 @@ ul {
 }
 #banner {
   clear: both;
-  background-image: url("../img/ibiza.jpg");
+  background-image: "background.jpg";
   height: 404px;
   background-size: cover;
   width: 960px;
